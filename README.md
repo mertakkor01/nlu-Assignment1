@@ -4,7 +4,7 @@
 - 221256
 
 # Requirements
-In order to run this code you need Python an SpaCy.
+In order to run this code you need Python and SpaCy. To install;
 
 - pip install -U pip setuptools wheel
 
